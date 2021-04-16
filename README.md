@@ -1,2 +1,2 @@
 # Analysis-on-COVID-19
-For Shellhacks
+Checking the accuracy of the data using Benford's Law
